@@ -1,0 +1,18 @@
+Buatlah 3 Screen
+Screen 1 :
+Menampilkan hasil list input
+Screen 2 :
+Menampilkan form input, dengan isian:
+Nama
+Alamat
+Tanggal Lahir (tidak boleh diketik)
+Tinggi (cm) (input berupa angka)
+Berat (kg) (input berupa angka)
+Foto (input bisa dari kamera maupun gallery)
+Submit
+Screen 3 :
+Menampilkan detail dari data, dimana akan ada aksi dari user berupa edit maupun hapus data
+Dengan kondisi, Di Screen 2 harus ada timer 1 menit 30 detik, jika melewati timer 1 menit 30
+detik, button submit akan disable.
+Format Timer mm:ss
+estimasi waktu 3 - 4 jam
